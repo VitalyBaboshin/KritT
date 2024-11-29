@@ -1,4 +1,4 @@
-import type { IChat } from "entities/Chat";
+import type { IChat } from 'entities/Chat';
 
 /**
  * Интерфейс для свойств компонента ChatList

@@ -1,4 +1,4 @@
-import type { IContact } from "../types";
+import type { IContact } from '../types';
 
 /**
  * Интерфейс для свойств компонента ContactItem

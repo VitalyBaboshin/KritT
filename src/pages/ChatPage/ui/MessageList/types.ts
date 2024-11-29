@@ -1,4 +1,4 @@
-import type { IMessage } from "entities/Message";
+import type { IMessage } from 'entities/Message';
 
 /**
  * Интерфейс для свойств компонента MessageList

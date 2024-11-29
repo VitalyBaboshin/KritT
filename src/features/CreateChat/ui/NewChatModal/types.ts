@@ -1,4 +1,4 @@
-import type { IContact } from "entities/Contact/types";
+import type { IContact } from 'entities/Contact/types';
 
 /**
  * Интерфейс для свойств компонента CreateChat

@@ -1,7 +1,6 @@
-import type { IMessage } from "entities/Message";
+import type { IMessage } from 'entities/Message';
 
 /**
-import { IMessage } from 'entities/Message';
  * Интерфейс item Chat
  *
  * @id Уникальный идентификатор чата
