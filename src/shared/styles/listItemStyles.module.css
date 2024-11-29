@@ -1,0 +1,22 @@
+.list__item_avatar {
+  height: 40px;
+  width: 40px;
+}
+
+.list__item_avatar img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.list__item_text {
+  width: calc(100% - 40px);
+  padding-left: 12px;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+.list__item_username {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 21px;
+}

@@ -1,0 +1,35 @@
+.dialog {
+  display: flex;
+  height: 56px;
+  padding: 0 12px;
+  border-bottom: solid 1px #f1f1f1;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.dialog:hover,
+.dialog_active {
+  background: #f1f1f1;
+}
+
+.dialog__last {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  line-height: 18px;
+}
+
+.dialog__last_msg {
+  font-size: 12px;
+  width: calc(100% - 30px);
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.dialog__last_time {
+  font-size: 12px;
+}

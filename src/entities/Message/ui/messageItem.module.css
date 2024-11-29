@@ -1,0 +1,17 @@
+.message {
+  padding: 8px 12px;
+  max-width: 60%;
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 14px;
+  border-radius: 8px;
+}
+.message_in {
+  align-self: flex-end;
+  color: #fff;
+  background: #1aabba;
+}
+.message_out {
+  align-self: flex-start;
+  color: #000;
+  background: #fff;
+}
